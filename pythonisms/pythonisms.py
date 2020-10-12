@@ -76,3 +76,8 @@ if __name__ == "__main__":
 
     num_gtr = gen()
     print(num_gtr)
+ 
+
+
+
+ 
